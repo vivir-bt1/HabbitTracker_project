@@ -1,0 +1,32 @@
+#calendar {
+    color: white;
+    background-color: white;
+    width: 700px;
+    height: 100px;
+}
+
+tr,
+td {
+    width: 100px;
+    height: 130px;
+    background-color:black;
+
+}
+
+button {
+    width: 20px;
+    height: 20px;
+    color: black;
+    text-align: center;
+    display: inline;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#hashtag {
+    background-color: coral;
+}
+
+#plus {
+    background-color: cornflowerblue;
+}
